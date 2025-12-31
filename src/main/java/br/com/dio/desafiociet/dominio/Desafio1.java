@@ -1,4 +1,4 @@
-package org.bootcampciet;
+package br.com.dio.desafiociet.dominio;
 
 import java.util.ArrayList;
 import java.util.List;
